@@ -14,7 +14,7 @@
 React project using Material-UI library.
 
 ## Laboratorio React Material UI 
-Para ejecutar 
+
 Para realizar el login de usar las siguientes credenciales:
 * User: correo@mail.com
 * Password: contraseña
